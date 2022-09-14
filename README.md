@@ -21,6 +21,15 @@ Hi, I'm Weversson, Brazilian passionate about technology.
   <a href = "mailto:weverssonsouza98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weversson-moraes-647760228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
+  ## My stats on Github 💫
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnmoraess&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnmoraess&show_icons=true&theme=tokyonight)
+[![wnmoraess](https://github-readme-stats.vercel.app/api/top-langs/?username=wnmoraess&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/wnmoraess/)
+  
   ![Snake animation](https://github.com/wnmoraess/wnmoraess/blob/output/github-contribution-grid-snake.svg)
   
  <div style="display: inline_block"><br>
