@@ -4,9 +4,7 @@
 
 <hr>
  
- <h3 align="center">  <br>
-Hi, I'm Weversson, Brazilian passionate about technology.
-<br>
+ <h3 align="center"> 
  
  ## Technologies I am currently studying 💻
 
@@ -32,7 +30,7 @@ Hi, I'm Weversson, Brazilian passionate about technology.
   
   ![Snake animation](https://github.com/wnmoraess/wnmoraess/blob/output/github-contribution-grid-snake.svg)
   
- <div style="display: inline_block"><br>
+ <div style="display: center"><br>
   <img align="center" alt="w-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="w-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="w-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
