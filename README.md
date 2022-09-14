@@ -1,10 +1,19 @@
-### Olá! Meu nome é Weversson Moraes!
-
 <h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <hr>
+ 
+ <h3 align="center">  <br>
+Hi, I'm Weversson, Brazilian passionate about technology.
+<br>
+ 
+ ## Technologies I am currently studying 💻
+
+  - Node.js
+  - React
+  - MongoDB
+  - MySQL
  
 <div> 
   <a href="https://instagram.com/wnmoraess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
